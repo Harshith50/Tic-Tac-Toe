@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+This is a simple implementation of the classic Tic Tac Toe game in JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to achieve a row, column, or diagonal of their chosen symbol (X or O). The game features a clean interface and provides feedback on the game status, including win, draw, or ongoing play
